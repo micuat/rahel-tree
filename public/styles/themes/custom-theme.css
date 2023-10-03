@@ -18,10 +18,28 @@ TIP: Get started creating your own theme here
   --color-primary: white;
 }
 
+a:hover {
+  background-color: rgba(255,255,255,0.3);
+}
+
 /* Add your style rules! */
 
 @font-face {
   font-family: "ApfelGrotezk Regular";
   src: url("https://cdn.glitches.me/ApfelGrotezk-Regular.woff2") format("woff2"),
     url("https://cdn.glitches.me/ApfelGrotezk-Regular.woff") format("woff");
+}
+
+ul.link-list li a img {
+  z-index: 1;
+  aspect-ratio: 1 / 1;
+  height: 3em;
+/*   object-fit: cover; */
+/*   overflow: hidden; */
+}
+ul.link-list li a span {
+  z-index: 2;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 100%;
 }

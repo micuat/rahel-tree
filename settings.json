@@ -12,11 +12,6 @@
       "altText": "Glitch blue generative art"
     },
     {
-      "url": "https://naoto-portfolio.glitch.me/",
-      "text": "My complete portfolio",
-      "imga": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
-    },
-    {
       "url": "https://best-practices.glitch.me/",
       "text": "Best Practices in Contemporary Dance with Jorge",
       "img": "https://cdn.glitch.global/bc1a4c77-fc26-4223-b92e-c4a103cabc10/favicon-32-bp.png?v=1694636479789"
@@ -24,7 +19,7 @@
     {
       "url": "https://soup.glitches.me/",
       "text": "soup.glitches.me",
-      "imga": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍲</text></svg>"
     },
     {
       "url": "https://heartbreak-cards.glitch.me/",
@@ -34,27 +29,27 @@
     {
       "url": "https://nail.glitches.me/",
       "text": "Naoto's Nail Salon",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": "https://cdn.glitch.global/f010c3f2-aa1e-49b9-8912-c199b98aeb28/favicon-32-nail.png?v=1694637566730"
     },
     {
       "url": "https://festival.naotohieda.com/",
       "text": "Naoto's Festival",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": "https://cdn.glitch.global/ba681ad3-9dce-4551-832f-7877f5305b26/favicon-32-festival.png?v=1694634659660"
     },
     {
       "url": "https://openprocessing.org/user/104460/",
       "text": "OpenProcessing",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": "https://openprocessing.org/assets/img/logo/favicons/favicon-32x32.png"
     },
     {
       "url": "https://glitches.me/",
       "text": "glitches.me",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": "data:image/png;base64,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"
     },
     {
       "url": "https://naoto-portfolio.glitch.me/",
       "text": "My complete portfolio",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤍</text></svg>"
     }
   ],
   "social": {
