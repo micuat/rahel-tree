@@ -1,9 +1,9 @@
 {
-  "metaTitle": "Glitch in Bio!",
-  "metaDescription": "My meta description.",
-  "name": "Glitch in Bio",
+  "metaTitle": "bioto!",
+  "metaDescription": "Naoto's bio",
+  "name": "Bioto",
   "theme": "glitch",
-  "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
+  "avatarImage": "https://cdn.glitch.global/61984d65-52b6-418b-b420-2547b4acca3d/back.png",
   "links": [
     {
       "url": "https://glitch.new/links",
@@ -23,21 +23,21 @@
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
+    "glitch": "https://glitch.com/@n.hieda",
     "arena": "",
     "bandcamp": "",
     "cohost": "",
-    "dev": "https://dev.to/glitch",
+    "dev": "",
     "facebook": "",
-    "github": "https://github.com/glitchdotcom",
+    "github": "https://github.com/micuat",
     "gitlab": "",
     "hashnode": "",
     "instagram": "",
     "keybase": "",
     "kofi": "",
     "letterboxd": "",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
-    "mastodon": "https://mastodon.social/@glitchdotcom",
+    "linkedin": "",
+    "mastodon": "",
     "medium": "",
     "onlyfans": "",
     "patreon": "",
@@ -48,11 +48,11 @@
     "spotify": "",
     "stackoverflow": "",
     "substack": "",
-    "twitter": "https://twitter.com/glitch",
+    "twitter": "",
     "twitch": "",
     "tiktok": "",
     "tumblr": "",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "email": "support@glitch.com"
+    "youtube": "https://www.youtube.com/c/NaotoHieda",
+    "email": "mail@naotohieda.com"
   }
 }
