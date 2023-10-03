@@ -1,20 +1,15 @@
 {
   "metaTitle": "bioto!",
   "metaDescription": "Naoto's bio",
-  "name": "Bioto",
+  "name": "Naoto's bio",
   "theme": "glitch",
-  "avatarImage": "https://cdn.glitch.global/61984d65-52b6-418b-b420-2547b4acca3d/back.png",
+  "avatarImage": "https://cdn.glitch.global/623b23e8-3916-4148-9c08-4b8954556605/bioto.png?v=1696362411004",
   "links": [
     {
-      "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
+      "url": "https://naotohieda.com/",
+      "text": "My homepage",
       "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
       "altText": "Glitch blue generative art"
-    },
-    {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
-      "img": ""
     },
     {
       "url": "https://www.glitch.com/",
