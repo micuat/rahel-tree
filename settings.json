@@ -1,7 +1,7 @@
 {
   "metaTitle": "bioto!",
-  "metaDescription": "Naoto's bio",
-  "name": "Naoto's bio",
+  "metaDescription": "[bioto] Naoto's bio",
+  "name": "[bioto] Naoto's bio",
   "theme": "custom-theme",
   "avatarImage": "https://cdn.glitch.global/623b23e8-3916-4148-9c08-4b8954556605/bioto.png?v=1696362411004",
   "links": [
@@ -32,14 +32,34 @@
       "img": "https://cdn.glitch.global/f010c3f2-aa1e-49b9-8912-c199b98aeb28/favicon-32-nail.png?v=1694637566730"
     },
     {
+      "url": "https://naotohieda.glitch.me/",
+      "text": "#NaotoHieda",
+      "img": "https://naotohieda.com/img/favicon-32-nh.png"
+    },
+    {
       "url": "https://festival.naotohieda.com/",
       "text": "Naoto's Festival",
       "img": "https://cdn.glitch.global/ba681ad3-9dce-4551-832f-7877f5305b26/favicon-32-festival.png?v=1694634659660"
     },
     {
+      "url": "https://riso.glitches.me/",
+      "text": "riso.glitches.me",
+      "img": "https://naotohieda.com/img/favicon-32-riso.png"
+    },
+    {
+      "url": "https://3d.glitches.me/",
+      "text": "GlitchMe with Flor",
+      "img": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤖</text></svg>"
+    },
+    {
       "url": "https://openprocessing.org/user/104460/",
       "text": "OpenProcessing",
       "img": "https://openprocessing.org/assets/img/logo/favicons/favicon-32x32.png"
+    },
+    {
+      "url": "https://note.com/naoto_hieda",
+      "text": "note (Japanese)",
+      "img": "https://assets.st-note.com/poc-image/manual/note-common-images/production/icons/apple-touch-icon-60x60.png"
     },
     {
       "url": "https://glitches.me/",

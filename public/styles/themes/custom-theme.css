@@ -33,12 +33,14 @@ a:hover {
 ul.link-list li a img {
   z-index: 1;
   aspect-ratio: 1 / 1;
+  width: 3em;
   height: 3em;
 /*   object-fit: cover; */
-/*   overflow: hidden; */
+  overflow: visible;
 }
 ul.link-list li a span {
   z-index: 2;
+  font-size: 1.5em;
   padding-left: 1rem;
   padding-right: 1rem;
   width: 100%;
