@@ -15,7 +15,7 @@ export default defineConfig(async ({ command, mode }) => {
       }
     },
     optimizeDeps: {
-      // exclude: ['./settings.json']
+      //exclude: ['./settings.json']
     },
   };
 });
