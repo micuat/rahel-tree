@@ -18,7 +18,7 @@ function renderLink(link) {
 export const renderLinks = ({ keyword = "" }) => {
   return html`
     <ul class="link-list">
-      ${links.filter(e => e?.text?.includes(keyword)).map(renderLink)}
+      ${links.filter(e => e?.text?.toLowerCase().includes(keyword.toLowerCase())).map(renderLink)}
     </ul>
   `
 };

@@ -143,6 +143,13 @@ h1 {
   color: var(--color-primary);
   justify-content: center;
 }
+input {
+  width: 100%;
+  font-size: 1.5rem;
+  font-family: var(--font-family);
+  border: 2px solid var(--color-primary);
+  border-radius: 0;
+}
 ul > li,
 ol > li {
   margin-bottom: 0.75rem;

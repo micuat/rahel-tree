@@ -2,6 +2,7 @@
 import { html, render } from "lighterhtml";
 import { renderMeta } from "../templates/meta.js";
 import { renderHeader } from "../templates/header.js";
+import { renderInput } from "../templates/input.js";
 import { renderLinks } from "../templates/links.js";
 import { renderFooter } from "../templates/footer.js";
 import { renderSocialIcons } from "../templates/social.js";
@@ -13,7 +14,11 @@ head.appendChild(renderMeta);
 const contentDivs = document.querySelectorAll("#content > div");
 
 // Define an array of sections to be added
-const sections = [renderHeader, renderLinks, renderSocialIcons, renderFooter];
+const sections = [renderHeader, renderInput, renderLinks, renderSocialIcons, renderFooter];
+
+const callback = (e) => {
+  render(contentDivs[2], renderLinks({ keyword: e.target.value }));
+};
 
 // Iterate over sections and append them to contentDiv
-sections.forEach((section, i) => render(contentDivs[i], section({ keyword: "24" })));
+sections.forEach((section, i) => render(contentDivs[i], section({ keyword: "", callback })));
