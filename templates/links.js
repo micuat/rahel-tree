@@ -15,7 +15,7 @@ function renderLink(link) {
   `;
 }
 
-export const renderLinks = html.node`
+export const renderLinks = () => html`
     <ul class="link-list">
       ${links.map(renderLink)}
     </ul>

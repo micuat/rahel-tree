@@ -10,10 +10,10 @@ const head = document.getElementsByTagName("head")[0];
 head.appendChild(renderMeta);
 
 // Getting a reference to the content div
-const contentDiv = document.getElementById("content");
+const contentDivs = document.querySelectorAll("#content > div");
 
 // Define an array of sections to be added
 const sections = [renderHeader, renderLinks, renderSocialIcons, renderFooter];
 
 // Iterate over sections and append them to contentDiv
-sections.forEach((section) => contentDiv.appendChild(section));
+sections.forEach((section, i) => render(contentDivs[i], section()));

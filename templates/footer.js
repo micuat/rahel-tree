@@ -1,7 +1,7 @@
 import { html } from "lighterhtml";
 import settings from "../settings.json";
 
-export const renderFooter = html.node`<footer class="footer">
+export const renderFooter = () => html`<footer class="footer">
   <div class="tagline">
     <b>Glitch in Bio</b><br />
     can I edit this field too?

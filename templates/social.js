@@ -63,7 +63,7 @@ const socials = [
   { name: "youtube", altText: "YouTube" }
 ];
 
-export const renderSocialIcons = html.node`
+export const renderSocialIcons = () => html`
     <div class="social-icons">
       ${socials.map((platform) => {
         return html.node`${renderSocial(platform)}`;
