@@ -10,15 +10,18 @@ import { renderSocialIcons } from "../templates/social.js";
 const head = document.getElementsByTagName("head")[0];
 head.appendChild(renderMeta);
 
-// Getting a reference to the content div
-const contentDivs = document.querySelectorAll("#content > div");
-
-// Define an array of sections to be added
-const sections = [renderHeader, renderInput, renderLinks, renderSocialIcons, renderFooter];
+const divHeader = document.querySelector(".content-header");
+const divInput = document.querySelector(".content-input");
+const divLinks = document.querySelector(".content-links");
+const divSocials = document.querySelector(".content-socials");
+const divFooter = document.querySelector(".content-footer");
 
 const callback = (e) => {
-  render(contentDivs[2], renderLinks({ keyword: e.target.value }));
+  render(divLinks, renderLinks({ keyword: e.target.value }));
 };
 
-// Iterate over sections and append them to contentDiv
-sections.forEach((section, i) => render(contentDivs[i], section({ keyword: "", callback })));
+render(divHeader, renderHeader());
+render(divInput, renderInput({ callback }));
+render(divLinks, renderLinks({ keyword: "" }));
+render(divSocials, renderSocialIcons());
+render(divFooter, renderFooter());
