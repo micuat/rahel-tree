@@ -16,4 +16,4 @@ const contentDivs = document.querySelectorAll("#content > div");
 const sections = [renderHeader, renderLinks, renderSocialIcons, renderFooter];
 
 // Iterate over sections and append them to contentDiv
-sections.forEach((section, i) => render(contentDivs[i], section()));
+sections.forEach((section, i) => render(contentDivs[i], section({ keyword: "24" })));
