@@ -8,8 +8,7 @@
     {
       "url": "https://www.youtube.com/c/NaotoHieda",
       "text": "YouTube",
-      "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEkElEQVRYR7WXW0ybZRjH/z2NQ8uhFFpooV/fEiESpzBi5MLERYwE1KFDndHsQq6MiQkJshlv5iEe4qbxZtEbWRbZ4qLE6YbGxG0XW7JIDBublo1gPyiHZh30RGkp2H5+z0v4hLUjHNrLfw/v73ne5/++z/Oqkl9pJYj/IirqEPAUwOstw6TfhpbWy1nVYlSAW3JClTwE6V44fXng0Z+UYLKhCT6ew6CKvKSTKHNzXRCh8Xz4ZkowdbcC4/N2iMsMB2u/y6gWtU54Chwoic1iqliAavKxEom23VE9nQKnH3cWnlCCyYQmuLesEkXhAO5YrFAN2mslqnmtbYxn+mD1mLz1ZngCNohRB0QwjOcydKp7d6SnjAIH5i8sYM5mht4/j2CVCap+w5MS1fihYhfPtN7yVwqc/nzQe0IJZjua4GF7CXThOKJCEXSzMcSZ4X8PDAw185o36od4pvXGmzwgt/yZqGW8brR1r4x+uyU9Z7PIwELoAnHEHXqoQwkknbvQ9vGp9R7o97TLCzvRmPiTZ9qgvZ4Cp8XaLvcrwWxGEzzJcgB/AhqnBokQkMsSqOm5mt4DZwP7eM0fiV3nmTYkrsEN+cjkMUwb7fBVVCAs1+6J337ZUC+xfGiYGgm/DHQmsOzXQO+Iw9gztrEHzmpfANW4zneDZ7o7OJwCp8XrzgwqwaTTBDewRcQDOhTZFxAL5sBUFcLdbtXmPPBjcQevec2Ui2da57u5svVmG/yyi2Py1kpyLSv7XOs0bW+xEEFUBpZWBhEJ5cNim8PtbtPWPPDrA/vkrbLAPvoPz9TpHk2BE0zdG1CCWYVbrLOYD+thtfgQWihAVekMBo40bc8DF+tbec0tIx6eKXPdhq/cipD8GbmajKVncZTI20vAaDwPVaYZBKNFEIon0ffZMzvzwNDex0E11g/7eaal16bvCxeMU4gs68H0E/AvG8Fyx3G0743MeOBWyx5e812D4bSZE5yAkaQBTOPGewOHMuuBuecFfn5jfyBl21fhTD6wEZUcwJKI7pFPsuOBxedK19V8LdwRFdHj+zS7HjC0S4rh7oXbApM4XHg0ux4Q2nx8a9PBzV4vPtjzUXY90LB35L7wQo8fxzt6suMBzYt5/IajS4bOOR01cvtJ8bV1mgxYFZpAV+LLzN4DFfvnU+AE+2axUwlmFV7um8bh6i8ycw9MPFvHuxo1Frrbef3lG+7cheYNNd0JzqQb71w5srNeENtflgKnxU8PdyjBpNMEF+Rj2XXn8+31gitNT/FJhoYJ6ufUUqmr3TjFtqSpETkME/j6+KtbmwdcTzemwGmxC+ealGA2ownu1Ih4/+e3NzcPDFjb+ahEA6TS7eRJJt67MtPx7rcNTcOItdyHq+/WbDwTXtrdkgKnP4snTQp8O5rgZN7Tx1rTz4RnFl9eM2ya+dhE06vQ9zef4TKlV4aWBUhvza5/F/xQdICPYGth9GNtr1+BZ0IT3GKdw60uucT0Ljimfl1afSjSW43qTy+W5t/P87k9W5rgaqaB6k3VhxK9UtfC6MuHv1+Z2ymYbGiC69kS/gOsko1cbn5U1wAAAABJRU5ErkJggg==",
-      "altText": "Glitch blue generative art"
+      "img": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📺</text></svg>"
     },
     {
       "url": "https://naotohieda.com/",
@@ -20,7 +19,22 @@
     {
       "url": "https://naoto-portfolio.glitch.me/",
       "text": "Artist portfolio",
-      "img": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤍</text></svg>"
+      "img": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌈</text></svg>"
+    },
+    {
+      "url": "https://glitches.me/",
+      "text": "Workshops",
+      "img": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧪</text></svg>"
+    },
+    {
+      "url": "https://naotohieda.com/cv",
+      "text": "CV",
+      "img": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⏳</text></svg>"
+    },
+    {
+      "url": "mailto:mail@naotohieda.com",
+      "text": "Email",
+      "img": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📨</text></svg>"
     }
   ],
   "backuplinks": [
