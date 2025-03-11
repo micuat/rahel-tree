@@ -6,4 +6,5 @@ export const renderHeader = () => html`<div>
     <img src='${settings.avatarImage}' class='avatar' alt='${settings.name}' />
   </div>
   <h1>${settings.name}</h1>
+  <h2>${settings.metaDescription}</h2>
 </div>`;

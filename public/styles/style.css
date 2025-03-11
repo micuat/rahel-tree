@@ -143,6 +143,11 @@ h1 {
   color: var(--color-primary);
   justify-content: center;
 }
+h2 {
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+  color: var(--color-primary);
+}
 input {
   width: 100%;
   font-size: 1.5rem;
@@ -204,7 +209,7 @@ ul.link-list {
 }
 ul.link-list li {
   font-family: var(--font-family-list);
-  font-weight: 100;
+  font-weight: 300;
   list-style: none;
   clear: both;
   width: 100%;

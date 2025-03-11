@@ -21,7 +21,7 @@ const callback = (e) => {
 };
 
 render(divHeader, renderHeader());
-render(divInput, renderInput({ callback }));
+// render(divInput, renderInput({ callback }));
 render(divLinks, renderLinks({ keyword: "" }));
 render(divSocials, renderSocialIcons());
-render(divFooter, renderFooter());
+// render(divFooter, renderFooter());
