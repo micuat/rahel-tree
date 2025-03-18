@@ -12,10 +12,10 @@ TIP: Get started creating your own theme here
   --font-family: "Lato", Arial, sans-serif;
   --font-family-header: "Lato", Arial, sans-serif;
   --font-family-list: "Lato", Arial, sans-serif;
-  --color-bg: #2020ff;
-  --color-bg-alt: aqua;
-  --color-text-main: yellow;
-  --color-primary: white;
+  --color-bg: yellow;
+  --color-bg-alt: black;
+  --color-text-main: black;
+  --color-primary: black;
 }
 
 a:hover {
