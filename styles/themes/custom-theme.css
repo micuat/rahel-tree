@@ -1,0 +1,47 @@
+/******************************************************************************
+TIP: Get started creating your own theme here
+
+- Set values for the main site variables for properties like fonts and colors
+- You can also add any style rules you like
+
+- Make sure you have `custom-theme` in settings.json theme property
+- (Update it if you changed the CSS file name)
+******************************************************************************/
+
+:root {
+  --font-family: "Lato", Arial, sans-serif;
+  --font-family-header: "Lato", Arial, sans-serif;
+  --font-family-list: "Lato", Arial, sans-serif;
+  --color-bg: yellow;
+  --color-bg-alt: black;
+  --color-text-main: black;
+  --color-primary: black;
+}
+
+a:hover {
+  background-color: rgba(255,255,255,0.3);
+}
+
+/* Add your style rules! */
+
+/* @font-face {
+  font-family: "ApfelGrotezk Regular";
+  src: url("https://cdn.glitches.me/ApfelGrotezk-Regular.woff2") format("woff2"),
+    url("https://cdn.glitches.me/ApfelGrotezk-Regular.woff") format("woff");
+}
+ */
+ul.link-list li a img {
+  z-index: 1;
+  aspect-ratio: 1 / 1;
+  width: 3em;
+  height: 3em;
+/*   object-fit: cover; */
+  overflow: visible;
+}
+ul.link-list li a span {
+  z-index: 2;
+  font-size: 1.5em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 100%;
+}
